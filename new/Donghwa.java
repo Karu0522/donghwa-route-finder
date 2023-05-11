@@ -1,4 +1,3 @@
-package district;
 import java.util.*;
 public class Donghwa {
 
